@@ -7,7 +7,7 @@ Currently focused on building web applications using **TypeScript, React, NestJS
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering student
+- 🎓 Software Engineering student at UniSATC
 - 💡 Passionate about technology and software development
 - 🤝 Working on collaborative personal projects
 - 🚀 Always learning and improving my development skills
