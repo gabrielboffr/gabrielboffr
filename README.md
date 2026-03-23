@@ -23,8 +23,8 @@ Currently focused on building web applications using **TypeScript, React, NestJS
 <a href="mailto:gabrielbraupp@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://x.com/gabrielboffr">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<a href="https://gabrielboffr.dev">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Site-111111?style=for-the-badge"/>
 </a>
 
 ## 💻 Tech Stack
